@@ -1,7 +1,7 @@
 ## UniMath
 A collection of basic math exercises in Python 3:
 
-# primes_finder
+### primes_finder
 
 A simple, basic, slightly optimised Py3 prime numbers finder. 
 
