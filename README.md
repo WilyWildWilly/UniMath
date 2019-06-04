@@ -5,10 +5,10 @@ A collection of basic math exercises in Python 3:
 
 A simple, basic, slightly optimised Py3 prime numbers finder. 
 
-# dice
+### dice
 
 Have the computer roll. 
 
-# guess_dice
+### guess_dice
 
 A simple game of "guess the the outcome of a dice roll".
