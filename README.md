@@ -1,5 +1,5 @@
 ## UniMath
-A collection of basic math exercises in Python 3:
+A collection of basic math games in Python 3:
 
 ### primes_finder
 
