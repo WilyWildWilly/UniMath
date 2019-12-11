@@ -20,6 +20,7 @@ This should run on Linux, Windows and Mac systems indifferently. I wrote the cle
 primes_finder: when I say it's slightly optimised it means I implemented a few solutions to keep the number of calculatons a magnitude or so lower.
 I did the following:
 
+'''
 def scanner(lLim, hLim, primes):
 	for i in range(lLim, hLim, 2): --> The answer can't be an even number, so skip two by two.
 		isPrime = True
@@ -32,6 +33,7 @@ def scanner(lLim, hLim, primes):
 		if isPrime:
 			primes.append(i)
 	return(primes)
+  '''
   
   I also wanted to add a check which made sure no number ending in 0 or 5 would be evaluated, but I believe it would actually make the order of magnitude bigger for low numbers. IDK, a better mathematician than I am (or someone way less lazy than I am) would be appreciated to evaluate this. Please let me know!
   
