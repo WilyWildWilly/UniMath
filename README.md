@@ -39,6 +39,10 @@ I did the following:
 	return(primes)
     '''
   
-  I also wanted to add a check which made sure no number ending in 0 or 5 would be evaluated, but I believe it would actually make the order of magnitude bigger for low numbers. IDK, a better mathematician than I am (or someone way less lazy than I am) would be appreciated to evaluate this. Please let me know!
+  I also wanted to add a check which made sure no number ending in 5 (skipping even numbers is already in place by now) would be evaluated, but I believe it would actually make the order of magnitude bigger for low numbers. Please let me know if you think otherwise.
   
-  
+## Dependencies
+Python 3 (should run on any Posix or Windows environment)
+
+## Running this code
+Fork or clone, then `cd` into the UniMath directory and `python3 UniMath.py`
