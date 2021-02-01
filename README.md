@@ -1,17 +1,20 @@
 ## UniMath
-A collection of basic math games in Python 3:
+A collection of basic math games in Python 3, which I want to evolve into some sort of small statistical/mathematical playpen:
 
 ### primes_finder
 
-A simple, basic, slightly optimised Py3 prime numbers finder. 
+A simple, basic, slightly optimised Py3 prime numbers finder.
+To do: organize the outcome graphically and give out the evaluation time upon search completion.
 
 ### dice
 
-Have the computer roll. 
+Have the computer roll a dice.
+To do: prompt the user for an amount of tosses, store the outcomes and give a graphical representation of the distribution.
 
 ### guess_dice
 
-A simple game of "guess the the outcome of a dice roll".
+Guess the the outcome of a dice roll.
+To do: make this go on a few times, and when the user quits give a graphical representation of the expected matches vs the standard probability of a match.
 
 *************************************************************
 
